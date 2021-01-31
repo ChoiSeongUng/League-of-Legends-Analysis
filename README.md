@@ -4,12 +4,12 @@
 1. 승래 예측 모델 : 게임 내 킬 스코어, 오브젝트 처치 횟수, 골드 획득량 등의 다양한 지표를 활용하여 해당 경기의 승패 여부를 예측 (RF, SVC, LR model)
 2. 승리 확률 계산 프로그램 : 상대적으로 경기 초반에 결정되는 경기 내 지표들을 활용하여, 플레이어들의 이후 행동 양상에 따라 변하는 승리 확률을 계산하는 프로그램 (GLM model)
 
-**Final Code 1st** - 프로젝트 최종 코드 (2020-1, 통계적데이터과학 강의의 프로젝트 최종 코드)
-**Final Code 2nd** - 프로젝트 최종 코드 (2020-2, 통계적머신러닝 강의의 프로젝트 최종 코드)
-**승패 예측 프로그램**- 승리 확률 계산 프로그램 구현 코드
-**meta data.csv** - 승패 예측 프로그램 실행에 필요한 csv file
+**Final Code 1st** - 프로젝트 최종 코드 (2020-1, 통계적데이터과학 강의의 프로젝트 최종 코드)  
+**Final Code 2nd** - 프로젝트 최종 코드 (2020-2, 통계적머신러닝 강의의 프로젝트 최종 코드)  
+**승패 예측 프로그램**- 승리 확률 계산 프로그램 구현 코드  
+**meta data.csv** - 승패 예측 프로그램 실행에 필요한 csv file  
 
-PDF 형태의 report 파일들은 프로젝트 진행 과정 및 결과를 정리한 제출용 결과물입니다.
+PDF 형태의 report 파일들은 프로젝트 진행 과정 및 결과를 정리한 제출용 결과물입니다.  
 
-Final Code 실행을 위한 데이터는 https://drive.google.com/file/d/16aY5GJYbgmB_-3oWbN0_y6n6BI1aSxlH/view?usp=sharing 에서 확인 가능
+Final Code 실행을 위한 데이터는 https://drive.google.com/file/d/16aY5GJYbgmB_-3oWbN0_y6n6BI1aSxlH/view?usp=sharing 에서 확인 가능  
 (Riot API 를 통해 수집한 특정 시즌 내 챌린저, 그랜드 마스터, 마스터 티어의 최상위 랭크 경기 데이터)
